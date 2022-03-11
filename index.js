@@ -1,6 +1,6 @@
 const iters = require('./py-js-iters')
 
-let ionos = iters.from_iterbles(["ABC", "DEF", "GHI", ["JKL"]]);
+let ionos = iters.repeat("abcd",10)
 
 console.log(ionos);
 

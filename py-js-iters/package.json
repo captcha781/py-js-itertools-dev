@@ -1,7 +1,8 @@
 {
-  "name": "py-js-iters",
+  "name": "itertool-js",
   "version": "1.0.2",
-  "description": "Javascript version of Python's Itertools Library",
+  "description": "Iterators for faster operations such as combinations and permutations",
+  "keywords": ["itertools", "iterators", "combinations", "permutations", "python", "iteration", "looping", "iterable","iters"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
