@@ -1,8 +1,8 @@
 {
   "name": "itertool-js",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Iterators for faster operations such as combinations and permutations",
-  "keywords": ["itertools", "iterators", "combinations", "permutations", "python", "iteration", "looping", "iterable","iters"],
+  "keywords": ["itertools", "iterators", "combinations", "permutations", "python", "iteration", "looping", "iterable","iters", "iter"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

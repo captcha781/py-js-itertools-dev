@@ -32,6 +32,9 @@ This package has the functionalities like combinations and permutations from "Py
  permutations(value)
  
  permutations("ABCD") => [ all possible permutations ]
+
+ permutations_custom(string or array, range) => [all possible permutations with desired range]
+
  ```
  The value must be a string , this function returns an array of possible **all** permutations of a given string.
  

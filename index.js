@@ -1,6 +1,6 @@
-const iters = require('./py-js-iters')
+const iters = require('./py-js-iters');
 
-let ionos = iters.repeat("abcd",10)
+let ionos = iters.combinations_custom_withreplacement("abcdefg", 3)
 
-console.log(ionos);
+console.log(ionos.length);
 

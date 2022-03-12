@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "itertools": "^1.7.1"
   }
 }
